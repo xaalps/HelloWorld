@@ -1,0 +1,9 @@
+Public class helloworld (){
+Public statics main(String arg[]){
+
+ System.out.println("hello world!");
+}
+
+
+
+}
